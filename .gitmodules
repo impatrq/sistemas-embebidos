@@ -1,0 +1,6 @@
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/carlassaraf/bluepill
+[submodule "raspberry_pi_pico"]
+	path = raspberry_pi_pico
+	url = https://github.com/impatrq/raspberry-pico
